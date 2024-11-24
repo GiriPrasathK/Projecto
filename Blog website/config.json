@@ -1,0 +1,22 @@
+{
+    "params":
+    {
+      "local_server":"True",
+      "local_uri": "mysql+mysqlconnector://root:@localhost/prodatabase",
+      "prod_uri":"mysql+mysqlconnector://root:@localhost/prodatabase",
+      "fb_url":"https://facebook.com/prodatabase",
+      "tw_url":"https://twitter.com/prodatabase",
+      "gh_url": "https://github.com/prodatabase",
+      "blog_name": "TAGS CSE BLOG",
+      "tag_line": "Heaven for programmers",
+      "gmail-user":"tagsengineercse@gmail.com",
+      "gmail-password":"tvzi hewi klci jbev",
+      "about_text": "Hello Welcome To Official Blog website of cse developed by TAGS!",
+      "no_of_posts": "2",
+      "login_image":"login.svg",
+      "admin_user":"giri",
+      "admin_password": "girivalam",
+      "upload_location":"C:\\Users\\tn33a\\python exp\\project\\KnowGrow\\static"
+    }
+  }
+  
